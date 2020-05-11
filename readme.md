@@ -13,7 +13,7 @@
 
 <h3 align="center" font="bold"> Interface Funcionando 💻</h3>
 
-![](https://media.giphy.com/media/RIBEEzjDjs0uMiZOWb/giphy.gif)
+![](gofinances.gif)
 
 # 📚 Development
 ## The project was made using these technologies to help with development
