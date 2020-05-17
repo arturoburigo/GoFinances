@@ -53,4 +53,6 @@ export const Footer = styled.section`
       background: ${shade(0.2, '#ff872c')};
     }
   }
+
+  
 `;
